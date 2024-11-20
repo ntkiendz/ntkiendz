@@ -22,8 +22,8 @@
 
 ## 🏆GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=sunaookamishirokodev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=KimiZK-Dev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sunaookamishirokodev&icon=0&color=8)](https://visitcount.itsvg.in).
+[![](https://visitcount.itsvg.in/api?id=KimiZK-Dev&icon=0&color=8)](https://visitcount.itsvg.in).
