@@ -2,6 +2,8 @@
 
 Hi there! 👋 I'm **KimiZK**, a passionate developer, lifelong learner, and occasional over-caffeinated night owl. I love turning ideas into reality through code and building projects that make an impact.
 
+[![](https://visitcount.itsvg.in/api?id=KimiZK-Dev&icon=0&color=8)](https://visitcount.itsvg.in)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/913110942127095889?borderRadius=10px&idleMessage=Newbie%2C%20lazy%20and%20stupid%20%F0%9F%97%BF&theme=&animated=false&animatedDecoration=false&hideStatus=false&showDisplayName=true&hideDecoration=false)](https://discord.com/users/913110942127095889)
 
 ## 🚀 About Me
@@ -38,9 +40,7 @@ Hi there! 👋 I'm **KimiZK**, a passionate developer, lifelong learner, and occ
 ---
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-trophies.vercel.app/?username=KimiZK-Dev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=KimiZK-Dev&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ## 📫 Get in Touch
 
