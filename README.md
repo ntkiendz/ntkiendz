@@ -32,12 +32,6 @@ Hi there! 👋 I'm **Ngô Trung Kiên**, a passionate developer, lifelong learne
 > ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=KimiZK-Dev&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=KimiZK-Dev&theme=omni&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KimiZK-Dev&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=KimiZK-Dev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
