@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub!
 
-Hi there! 👋 I'm **KimiZK**, a passionate developer, lifelong learner, and occasional over-caffeinated night owl. I love turning ideas into reality through code and building projects that make an impact.
+Hi there! 👋 I'm **Ngô Trung Kiên**, a passionate developer, lifelong learner, and occasional over-caffeinated night owl. I love turning ideas into reality through code and building projects that make an impact.
 
 [![](https://visitcount.itsvg.in/api?id=KimiZK-Dev&icon=0&color=8)](https://visitcount.itsvg.in)
 
