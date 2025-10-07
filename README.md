@@ -45,4 +45,4 @@ Hi there! 👋 I'm **Ngô Trung Kiên**, a passionate developer, lifelong learne
 ## 📫 Get in Touch
 
 -   🌐 **LinkFb**: [Click here!](https://www.facebook.com/share/1CZdVQrrjT/?mibextid=wwXIfr)
--   📧 **Contac**: [Click here!](tkien.noprocoder@gmail.com)
+-   📧 **Contact**: [Click here!](tkien.noprocoder@gmail.com)
